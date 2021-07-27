@@ -29,3 +29,4 @@ F1 Score : 0.9444343891402714
 
 ROC - AUC : 0.99
 
+![image](https://user-images.githubusercontent.com/44118554/127183476-41659ff1-e479-46aa-8666-b48c002f0b76.png)
