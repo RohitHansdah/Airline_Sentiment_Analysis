@@ -10,6 +10,8 @@ It was done by firstly removing all the numerical data , punctuations, stop word
 Step 2 : Feature Extraction  - 
 The text data was converted into integer matrix using TF IDF and the imbalance data was handled using SMOTE .
 
+![image](https://user-images.githubusercontent.com/44118554/127183386-1fce2c70-bec8-4e14-80bb-bfd8bfcc6ecb.png)
+
 Step 3 : Classifier Model -
 The model was trained using Random Forest Classifier . And the model performance is as follows 
 
